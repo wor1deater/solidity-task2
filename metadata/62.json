@@ -1,0 +1,19 @@
+{
+    "name": "Gelasimoff NFT #62",
+    "description": "-",
+    "attributes": [
+        {
+            "trait_type": "Clothes",
+            "value": "Jacket"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "Boots",
+            "value": "Empty"
+        }
+    ],
+    "image": "https://ipfs.io/ipfs/Qmb8Guy7sL3i3GWKxaP62m98r8FgMQYoxnpapTmotCDzu1/bear-0062.png"
+}

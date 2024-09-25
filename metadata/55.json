@@ -1,0 +1,19 @@
+{
+    "name": "Gelasimoff NFT #55",
+    "description": "-",
+    "attributes": [
+        {
+            "trait_type": "Clothes",
+            "value": "Jacket"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Mohawk"
+        },
+        {
+            "trait_type": "Boots",
+            "value": "Nike"
+        }
+    ],
+    "image": "https://ipfs.io/ipfs/Qmb8Guy7sL3i3GWKxaP62m98r8FgMQYoxnpapTmotCDzu1/bear-0055.png"
+}
